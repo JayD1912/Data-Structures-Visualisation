@@ -349,6 +349,6 @@ dq.addEventListener("click",function(){
         front++;
         console.log(i)*/
         i--;
-        cnt++;
+       
            
 })
